@@ -19,7 +19,7 @@ $ Mix deps.get
 ```
 
 ### Rodando aplicação
-O comando a seguir excuta todas as funções da aplicação em um terminal interativo.
+O comando a seguir executa todas as funções da aplicação em um terminal interativo.
 ```
 $ iex -S mix
 ```
