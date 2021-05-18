@@ -1,4 +1,4 @@
-# Recursive list length
+# Recursive length
 Este projeto tem como objetivo demonstrar a habilidade de lógica de programação aplicada na linguagem Elixir. Utilizando recursividade é retornado o tamanho de uma lista. 
 
 <em>Projeto desenvolvido pelo aprendizado adquirido no bootcamp <a href="https://help.rocketseat.com.br/hc/pt-br/sections/1500000466461-Ignite"><b>Ignite</b></a> na trilha Elixir da instituição de ensino <a href="https://rocketseat.com.br/">Rocketseat<a><em>
