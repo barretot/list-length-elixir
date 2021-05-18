@@ -9,9 +9,10 @@ Este projeto tem como objetivo demonstrar a habilidade de lógica de programaç�
 ## Executando projeto
 A primeira etapa é ter instalado na sua máquina o compilador Erlang e o Elixir se você não possui, baixe <a href="https://elixir-lang.org/install.html">aqui</a>
 
-Após a instalação, <a href="https://github.com/barretot/list-length-elixir">clone</a> este projeto em um local de sua preferência e abra com seu editor de códigos, o elixir usa por padrão o gerenciador de pacotes <a href="https://elixirschool.com/pt/lessons/basics/mix/">Mix</a>.
+Após a instalação, <a href="https://github.com/barretot/list-length-elixir">clone</a> este projeto em um local de sua preferência e abra com seu editor de códigos. 
 
 ### Instalando dependências:
+O elixir usa por padrão o gerenciador de pacotes <a href="https://elixirschool.com/pt/lessons/basics/mix/">Mix</a>.
 
 ```
 $ Mix deps.get 
