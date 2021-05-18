@@ -5,7 +5,7 @@ defmodule ListLength do
 
   defp length([_head | tail], acc) do
     acc = acc + length(tail) + 1
-    {:ok, acc}
+    acc
   end
 end
 
