@@ -1,7 +1,7 @@
 # Recursive Length
 Este projeto tem como objetivo demonstrar a habilidade de lógica de programação aplicada na linguagem Elixir. Utilizando recursividade e retornado o tamanho de uma lista. 
 
-<em>Projeto desenvolvido pelo aprendizado adquirido no bootcamp <a href="https://help.rocketseat.com.br/hc/pt-br/sections/1500000466461-Ignite"><b>Ignite</b></a> na trilha Elixir da instituição de ensino <a href="https://rocketseat.com.br/">Rocketseat<a><em>
+<em>Projeto desenvolvido pelo aprendizado adquirido no bootcamp <a href="https://help.rocketseat.com.br/hc/pt-br/sections/1500000466461-Ignite"><b>Ignite</b></a> na trilha Elixir da instituição de ensino <a href="https://rocketseat.com.br/">Rocketseat.<a><em>
 
 ![instagram_profile_image](https://user-images.githubusercontent.com/56320849/118588503-e02bfa80-b774-11eb-8039-1e7643bccf80.png)
 <em>Logo criado em: https://hatchful.shopify.com/pt-BR/</em>
